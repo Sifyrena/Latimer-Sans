@@ -5,4 +5,4 @@
 
 ![Preview](LS.png)
 
-![Why]('Screen Shot 2021-03-30 at 11.34.33 AM.png')
+![Why]('Preview_Terminal.png')
