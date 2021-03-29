@@ -5,4 +5,4 @@
 
 ![Preview](LS.png)
 
-![Why]('Preview_Terminal.png')
+![Why](Preview_Terminal.png)
