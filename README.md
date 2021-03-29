@@ -1,4 +1,4 @@
 # Latimer Sans Font
- Nonsensical Geometric Font
+ A Grid-Based Geometric Font used in some FWPhys Sci-Fi Renders.
 
 ![Preview](LS.png)
